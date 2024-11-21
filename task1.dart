@@ -1,4 +1,3 @@
-
 // Program 1
 void main() {
   int age = 18;
@@ -8,9 +7,3 @@ void main() {
     print('You are a minor.');
   }
 }
-
-
-
-
-
-
