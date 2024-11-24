@@ -1,5 +1,5 @@
 void main() {
-  double result = add(p: 1000, t: 5, r: 2);
+  double result = add(p: 10000, t: 5, r: 2);
   print('The result is: $result');
 }
 
